@@ -1,0 +1,26 @@
+{
+  "name": "threemath",
+  "version": "1.0.0",
+  "description": "3D Math Utilities from three.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "clean": "rm dist/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azeem/threemath.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azeem/threemath/issues"
+  },
+  "homepage": "https://github.com/azeem/threemath#readme",
+  "devDependencies": {
+    "minify": "^1.4.18"
+  }
+}
